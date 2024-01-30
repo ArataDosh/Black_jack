@@ -10,6 +10,6 @@ def fizzbuzz(n):
         else:
             print(i)
 
-print("数字を入力してください")
+
 number= int(input())
 fizzbuzz(number)
